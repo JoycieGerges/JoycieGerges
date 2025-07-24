@@ -29,7 +29,7 @@
 |------|-------------|------------|
 | [Fastudy App](https://github.com/JoycieGerges/Fastudy-app) | Educational mobile app to help students find and share notes easily | `Flutter`, `Firebase` |
 | [SH8LNY Website](https://github.com/JoycieGerges/SH8LNY-Website) | Web interface to help users search for jobs | `HTML`, `CSS`, `JavaScript` |
-| [Git_Course](https://github.com/JoycieGerges/Git_Course) | Frontend practice from Elzero Web School | `HTML`, `CSS` |
+
 
 ---
 
