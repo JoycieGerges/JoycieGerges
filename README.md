@@ -43,4 +43,7 @@
 ![Joycie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoycieGerges&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoycieGerges&layout=compact&theme=radical)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoycieGerges&theme=dracula)
+
+
 ⭐ **Thanks for visiting my GitHub!**
