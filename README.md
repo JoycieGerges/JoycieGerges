@@ -37,7 +37,7 @@
 
 - 📧 Email: joyciegerges@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/joycie-gerges-b45514248
-- 🌐 Portfolio: *(لو عندك portfolio website أو ممكن نبدأ نعمل واحد)*
+- 🌐 Portfolio: 
 
 ---
 ![Joycie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoycieGerges&show_icons=true&theme=radical)
