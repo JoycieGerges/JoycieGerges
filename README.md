@@ -40,7 +40,7 @@
 - 🌐 Portfolio: *(لو عندك portfolio website أو ممكن نبدأ نعمل واحد)*
 
 ---
-![Joycie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markamgad1234&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markamgad1234&layout=compact&theme=radical)
+![Joycie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoycieGerges&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoycieGerges&layout=compact&theme=radical)
 
 ⭐ **Thanks for visiting my GitHub!**
