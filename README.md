@@ -1,35 +1,35 @@
-<h1 align="center">Hi 👋, I'm Joyce Gerges</h1>
+<h1 align="center">Hi 👋, I'm Joycie Gerges</h1>
 
 <p align="center">
-  🎓 Computer Science Graduate • 💻 Flutter Developer • 🤖 AI Enthusiast
+  🎓 Computer Science Graduate • 🎨 Frontend Developer • 💻 Web & Mobile Enthusiast
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 👩‍🎓 I'm a recent graduate in Computer Science  
-- 📱 I love building **mobile & web apps** that solve real-world problems  
-- 💬 Always curious about **Flutter, AI, and Firebase**  
-- 🚀 Looking for opportunities to grow and build impactful software
+- 👩‍💻 I'm a **Frontend Developer** with a passion for clean UI and smooth user experiences  
+- 👩‍🎓 Computer Science Graduate who loves building interactive websites and mobile apps  
+- 🛠️ Focused on **HTML, CSS, JavaScript, Flutter**, and modern web technologies  
+- 🌱 Always learning and exploring **UI/UX, Firebase**, and performance optimization
 
 ---
 
 ### 🛠️ Skills
 
-- **Languages**: Dart, JavaScript, Python, HTML, CSS , JS
-- **Frameworks**: Flutter, Firebase, GitHub
-- **Tools**: Git, GitHub, VS Code, Figma
+- **Frontend**: HTML, CSS, JavaScript, Flutter, Responsive Design  
+- **Tools & Frameworks**: Git, GitHub, Firebase, Figma, VS Code  
+- **Soft Skills**: Teamwork, problem-solving, attention to detail
 
 ---
 
-### 📱 Projects
+### 💼 Projects
 
 | Name | Description | Tech Stack |
 |------|-------------|------------|
-| [Fastudy App](https://github.com/JoycieGerges/Fastudy-app) | Educational app to help students find and share notes easily | `Flutter`, `Firebase` |
-| [SH8LNY Website](https://github.com/JoycieGerges/SH8LNY-Website) | Job search website interface | `HTML`, `CSS`, `JavaScript` |
-| [Git_Course](https://github.com/JoycieGerges/Git_Course) | Basic HTML/CSS practice project for Elzero Web School | `HTML`, `CSS` |
+| [Fastudy App](https://github.com/JoycieGerges/Fastudy-app) | Educational mobile app to help students find and share notes easily | `Flutter`, `Firebase` |
+| [SH8LNY Website](https://github.com/JoycieGerges/SH8LNY-Website) | Web interface to help users search for jobs | `HTML`, `CSS`, `JavaScript` |
+| [Git_Course](https://github.com/JoycieGerges/Git_Course) | Frontend practice from Elzero Web School | `HTML`, `CSS` |
 
 ---
 
@@ -37,7 +37,7 @@
 
 - 📧 Email: joyciegerges@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/joycie-gerges-b45514248
-- 🌐 Portfolio: *(لو عندك ويب سايت أو ممكن نعمله سوا)*
+- 🌐 Portfolio: *(لو عندك portfolio website أو ممكن نبدأ نعمل واحد)*
 
 ---
 
