@@ -47,8 +47,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoycieGerges&color=blue)
-![Languages](https://img.shields.io/github/languages/top/JoycieGerges/MediLink)
-![License](https://img.shields.io/github/license/JoycieGerges/MediLink)
+
 
 
 ⭐ **Thanks for visiting my GitHub!**
