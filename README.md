@@ -35,10 +35,9 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: joyciegerges@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/joycie-gerges-b45514248
-- 🌐 Portfolio: 
-
+📧 **Email:** [joyciegerges@gmail.com](mailto:joyciegerges@gmail.com)  
+🌐 **[My Portfolio](https://joycieportfolio.netlify.app)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/joycie-gerges-b45514248)**
 ---
 
 
